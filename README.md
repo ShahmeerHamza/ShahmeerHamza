@@ -66,4 +66,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahmeerHamza)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors]([https://visitor-badge.laobi.icu/badge?page_id=qasim1020.qasim-hassan](https://visitor-badge.laobi.icu/badge?page_id=ShahmeerHamza.visitor-badge))
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ShahmeerHamza.ShahmeerHamza)
