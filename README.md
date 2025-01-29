@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 ### Follow
 - To follow my GitHub, Search by username **`ShahmeerHamza`**.
 
-[![Anurag's GitHub stats](hhttps://github-readme-stats.vercel.app/api?username=ShahmeerHamza)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahmeerHamza)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors]([https://visitor-badge.laobi.icu/badge?page_id=qasim1020.qasim-hassan](https://visitor-badge.laobi.icu/badge?page_id=ShahmeerHamza.visitor-badge))
